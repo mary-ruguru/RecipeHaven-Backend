@@ -1,2 +1,2 @@
 # RecipeHaven-Backend
-Ruby
+Ruby on rails
